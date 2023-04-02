@@ -2,15 +2,15 @@
 # Metabolism Mindmap
 ![meme](res/when-i-wrote-a49411.jpg)
 ถ้าอยากรู้ว่าทำไมทุกอย่างถึงอยู่ในไฟล์เดียว
-'''python
+```python
 for i in range(1000):
 	print("ขี้เกียจ");
-'''
+```
 ## Table of contents
-- [What did I do.](#what-did-i-do)
+- [What happen](#what-happen)
 - [Credit](#credit)
 
-## What did I do
+## What happen
 |Line|Description|
 |---|---|
 |3:4|setting button html|
